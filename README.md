@@ -51,10 +51,15 @@ VScode ←便利
     - (dataMemo.txt)
 
 - gitの使い方
-    1. branchを切る
-        1. 開発用のbranchを切る
-            - brachの命名規則(参考:https://qiita.com/c6tower/items/fe2aa4ecb78bef69928f)
-                - 開発中の全体:dev
-                - 新機能開発中:feature-(機能名)
-            - branch一覧
-            `git branch`
+    - brachについて
+        - branch一覧`git branh`
+        - branch作成`git branch [branch名]`
+        - branchに入る`git checkout [branch名]`
+        - branch削除`git -D [branch名]`
+    - プルリクまでのフロー(コマンドの中身はよくわかんないのでとりあえず打とう)
+        1. `git add .`
+        1. `git commit -m "コメント"`
+        1. `git push origin [branch名]`
+        1. web上のgithubのプロジェクトに移動
+        1. Compare & Pull requestからプルリクを送信(多分LINEに通知行く)
+        1. アサインされた人が変更内容見て良かったらマージ
