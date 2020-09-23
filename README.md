@@ -40,12 +40,6 @@ VScode ←便利
 30キャラ×6パーツぐらい  
 入出力の画像が沢山あるので保存場所と管理方法要検討
 とりあえずローカルでのフォーマットだけ決めちゃって最後にマージかな？
-
-- ubuntu内のファイルの場所
-    - ubuntuからwindowsのとき
-        - /mnt/c/Users/[ユーザ名]
-    - windowsからubuntuのとき
-        - エクスプローラに`\\wsl$\Ubuntu\home[ユーザ名]`を入力
 - 構成
     - app <-メインのフォルダ
         - メインのコード
@@ -57,7 +51,11 @@ VScode ←便利
 - 画像データフォルダ構成
     - charName_parts.png x 6
     - (dataMemo.txt)
-
+- ubuntu内のファイルの場所
+    - ubuntuからwindowsのとき
+        - /mnt/c/Users/[ユーザ名]
+    - windowsからubuntuのとき
+        - エクスプローラに`\\wsl$\Ubuntu\home[ユーザ名]`を入力
 - gitの使い方
     - brachについて
         - branch一覧`git branh`
