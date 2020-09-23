@@ -7,8 +7,12 @@ python
 openCV  
 VScode ←便利
 ## 環境構築の手順(仮)
+- 前提
+    - VScodeインストール済み
+    - VScode日本語化済み
 1. WSLの有効化
-    1. コントロールパネルから[プログラム] > [Windowsの機能の有効化または無効化] を選択し、表示されたダイアログの中から「Windows Subsystem for Linux」にチェックを入れて有効化
+    1. コントロールパネルから[プログラム] > [Windowsの機能の有効化または無効化] を選択し
+    1. 表示されたダイアログの中から「Windows Subsystem for Linux」にチェックを入れて有効化
 1. ubuntuインストール
     1. Microsoft StoreからUbuntuをインストール
     1. Ubuntuの起動
@@ -23,7 +27,11 @@ VScode ←便利
 1. openCVのインストール
     1. `sudo apt-get install libopencv-dev python3-opencv`
 1. repositryのダウンロード
-    1. 
+    1. `git clone https://github.com/SAITOman/mobFaceMaker.git`
+1. VScodeとubuntuの連携
+    1. `. code`
+    1. VScode上でターミナルを開く
+    1. Ubuntuに接続されているか確認
 ## メモ
 画像データ群は重いので完成まで仮置  
 30キャラ×6パーツぐらい
