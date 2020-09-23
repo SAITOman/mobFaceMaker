@@ -15,11 +15,11 @@ VScode ←便利
     1. ユーザ名とパスワードの設定
     1. 再起動
 1. pythonoのインストール
-    `sudo apt update`
-    1. 'sudo apt upgrade'
-    1. 'sudo apt install python3 python3-pip -y'
-    1. 'sudo pip3 install pip -U'
-    1. 'python3 --version'でバージョン確認
+    1. `sudo apt update`
+    1. `sudo apt upgrade`
+    1. `sudo apt install python3 python3-pip -y`
+    1. `sudo pip3 install pip -U`
+    1. `python3 --version`でバージョン確認
 1. openCVのインストール
     1. 
 1. 番号付きリスト3
