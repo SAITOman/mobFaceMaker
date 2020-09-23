@@ -21,9 +21,9 @@ VScode ←便利
     1. `sudo pip3 install pip -U`
     1. `python3 --version`でバージョン確認
 1. openCVのインストール
+    1. `sudo apt-get install libopencv-dev python3-opencv`
+1. repositryのダウンロード
     1. 
-1. 番号付きリスト3
-
 ## メモ
 画像データ群は重いので完成まで仮置  
 30キャラ×6パーツぐらい
