@@ -49,3 +49,12 @@ VScode ←便利
 - 画像データフォルダ構成
     - charName_parts.png x 6
     - (dataMemo.txt)
+
+- gitの使い方
+    1. branchを切る
+        1. 開発用のbranchを切る
+            - brachの命名規則(参考:https://qiita.com/c6tower/items/fe2aa4ecb78bef69928f)
+                - 開発中の全体:dev
+                - 新機能開発中:feature-(機能名)
+            - branch一覧
+            `git branch`
