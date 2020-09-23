@@ -35,3 +35,6 @@ VScode ←便利
 ## メモ
 画像データ群は重いので完成まで仮置  
 30キャラ×6パーツぐらい
+- 画像データファイル構成
+    - charName_parts.png x 6
+    - (dataMemo.txt)
