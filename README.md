@@ -63,7 +63,7 @@ VScode ←便利
         - branch作成`git branch [branch名]`
         - branchに入る`git checkout [branch名]`
         - branch削除`git -D [branch名]`
-    - プルリクまでのフロー(コマンドの中身はよくわかんないのでとりあえず打とう)
+    - プルリクまでのフロー(とりあえずわかんなくて大丈夫？)
         1. `git add .`
         1. `git commit -m "コメント"`
         1. `git push origin [branch名]`
