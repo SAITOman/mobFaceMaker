@@ -42,9 +42,9 @@ VScode ←便利
 
 - ubuntu内のファイルの場所
     - ubuntuからwindowsのとき
-        - /mnt/c/Users/
+        - /mnt/c/Users/[ユーザ名]
     - windowsからubuntuのとき
-        - エクスプローラに`\\wsl$\Ubuntu\home`を入力
+        - エクスプローラに`\\wsl$\Ubuntu\home[ユーザ名]`を入力
 - 構成
     - app <-メインのフォルダ
         - メインのコード
