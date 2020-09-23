@@ -69,7 +69,7 @@ VScode ←便利
         - branch一覧(仮)
             - master <-一番触らない
             - dev1 <-２番めに使う
-            - feature-* <-1番に使う
+            - feature-[機能名] <-1番に使う
     - プルリクまでのフロー(とりあえずわかんなくて大丈夫？)
         1. `git add .`
         1. `git commit -m "コメント"`
