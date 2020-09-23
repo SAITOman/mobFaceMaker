@@ -35,6 +35,12 @@ VScode ←便利
 ## メモ
 画像データ群は重いので完成まで仮置  
 30キャラ×6パーツぐらい
+
+- ubuntu内のファイルの場所
+    - ubuntuからwindowsのとき
+        - /mnt/c/Users/
+    - windowsからubuntuのとき
+        - エクスプローラに`\\wsl$\Ubuntu\home`を入力
 - 構成
     - app <-メインのフォルダ
     - data <-画像データ
