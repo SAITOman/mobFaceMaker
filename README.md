@@ -40,9 +40,9 @@ VScode ←便利
 30キャラ×6パーツぐらい  
 入出力の画像が沢山あるので保存場所と管理方法要検討
 とりあえずローカルでのフォーマットだけ決めちゃって最後にマージかな？　　
-現状のデータ置き場　　
+現状のデータ置き場  
 data-> https://drive.google.com/drive/folders/1j4nlOPN6L5XxyI-5foHGh8jkLJY3uPwr  
-spreadsheet-> https://docs.google.com/spreadsheets/d/1xIzksHVta82n1z-1HkxcfmmQLfDYNR0JwwIfFMblyaY/edit#gid=0
+spreadsheet-> https://docs.google.com/spreadsheets/d/1xIzksHVta82n1z-1HkxcfmmQLfDYNR0JwwIfFMblyaY/edit#gid=0  
 account-> 2020creativeaivisual@gmail.com
 
 - 構成
