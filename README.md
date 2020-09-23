@@ -15,7 +15,7 @@ VScode ←便利
     1. ユーザ名とパスワードの設定
     1. 再起動
 1. pythonoのインストール
-    1. 'sudo apt update'
+    `sudo apt update`
     1. 'sudo apt upgrade'
     1. 'sudo apt install python3 python3-pip -y'
     1. 'sudo pip3 install pip -U'
