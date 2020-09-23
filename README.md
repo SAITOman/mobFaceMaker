@@ -61,7 +61,7 @@ VScode ←便利
         - エクスプローラに`\\wsl$\Ubuntu\home[ユーザ名]`を入力
         
 - gitの使い方
-    - brachについて
+    - branchについて
         - branch一覧`git branh`
         - branch作成`git branch [branch名]`
         - branchに入る`git checkout [branch名]`
